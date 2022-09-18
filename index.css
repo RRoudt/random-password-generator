@@ -62,21 +62,24 @@ hr {
 #password-one-el {
     display: inline-block;
     width: 210px;
-    height: 40px;
+    min-height: 40px;
     background-color: #273549;
     border-radius: 5px;
     padding: 10px;
     text-align: center;
+    overflow-wrap: anywhere;
+    margin-right: 20px;
 }
 
 #password-two-el {
     display: inline-block;
     width: 210px;
-    height: 40px;
+    min-height: 40px;
     background-color: #273549;
     border-radius: 5px;
     padding: 10px;
     text-align: center;
+    overflow-wrap: anywhere;
 }
 
 #password-one-el:hover {
