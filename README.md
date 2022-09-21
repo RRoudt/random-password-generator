@@ -8,3 +8,5 @@ The password generator works in the following way:
 - It runs two separate for loops; one for each password
 - The passwords are stored in two separate variables
 - The passwords are added to the DOM
+
+[**See a live demo here**](https://rpwg.netlify.app)
